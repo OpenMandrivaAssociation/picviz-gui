@@ -34,7 +34,7 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root,-)
 %doc COPYING README samples
-%{python_sitearch}/PicvizGui
-%{python_sitearch}/picviz_gui*.egg-info
+%{python_sitelib}/PicvizGui
+%{python_sitelib}/picviz_gui*.egg-info
 %{_bindir}/picviz-gui
 %{_datadir}/picviz-gui
