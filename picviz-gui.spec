@@ -38,3 +38,11 @@ rm -rf %{buildroot}
 %{python_sitelib}/picviz_gui*.egg-info
 %{_bindir}/picviz-gui
 %{_datadir}/picviz-gui
+
+
+%changelog
+* Mon Feb 22 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.7-1mdv2010.1
++ Revision: 509548
+- import picviz-gui
+
+
