@@ -1,6 +1,6 @@
 Name:		picviz-gui
 Version:	0.7
-Release:	2
+Release:	3
 Summary:	Graphical frontend for picviz
 License:	GPLv3+
 Group:		Graphics
