@@ -4,7 +4,7 @@ Release:	3
 Summary:	Graphical frontend for picviz
 License:	GPLv3+
 Group:		Graphics
-Url:		http://www.wallinfire.net/picviz
+Url:		https://www.wallinfire.net/picviz
 Source0:	http://www.wallinfire.net/files/picviz/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(python)
 Requires:	picviz-cli
